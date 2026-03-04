@@ -1,4 +1,4 @@
-# Finance_Project
+# QuantEdge
 
 An algorithmic trading exploration and backtesting environment built using standard Python financial data libraries like `yfinance` and `backtrader`. It simulates investment strategies based on popular technical indicators (MACD, RSI) and evaluates statistical pricing models (Geometric Brownian Motion).
 
